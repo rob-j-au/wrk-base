@@ -1,3 +1,3 @@
 ## wkr-base
 
-node.js library for wrk-base app
+node.js library for wrk app
